@@ -3,14 +3,14 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>me.cameron</groupId>
-	<artifactId>GravitySimulator</artifactId>
+	<artifactId>ColorSandbox</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>Gravity-Simulator</name>
+	<name>Color-Sandbox</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<main.class>me.cameron.tp2.Main</main.class>
+		<main.class>me.cameron.tp4.Main</main.class>
 	</properties>
 	<build>
 		<finalName>${project.name}</finalName>
