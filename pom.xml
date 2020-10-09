@@ -13,7 +13,6 @@
 		<main.class>me.cameron.tp4.Main</main.class>
 	</properties>
 	<build>
-		<finalName>${project.name}</finalName>
 		<resources>
 			<resource>
 				<directory>/src/main/resources</directory>
